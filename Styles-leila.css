@@ -158,7 +158,7 @@ nav ul li {
 .hero-section {
     height: 100vh;
     width: 100%;
-    background-image: url('/Leila/img/istockphoto-1465053603-612x612.png');
+    background-image: url('img/istockphoto-1465053603-612x612.png');
     background-size: cover;
     background-position: center;
     position: fixed;
